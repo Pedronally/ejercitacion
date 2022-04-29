@@ -3,5 +3,5 @@
 
 "es verdad"
 
-"mentira, la m3 es mucho mejor"
+
 
